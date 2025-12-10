@@ -4,7 +4,7 @@
 JUAN ANTONIO GOMEZ GOMEZ
 2ºSMX🚗🚗🚗
 
-https://aules.edu.gva.es/fp/pluginfile.php/12241163/mod_resource/content/2/DASP_UT1_Resumen.pdf
+https://aules.edu.gva.es/fp/course/view.php?id=191209
 
 https://aules.edu.gva.es/fp/pluginfile.php/12249512/mod_resource/content/3/DASP_UT1_Activity_2_ING.pdf
 
