@@ -1,5 +1,5 @@
 # Mòdul optatiu Programació
-*_The Programming class focuses on learning fundamental coding concepts and problem-solving skills to create software using structured logic and programming languages._*
+*_The Programming class focus on learning fundamental coding concepts and problem-solving skills to create software using structured logic and programming languages like python._*
 
 PILAR MARIA PERELLO PASCUAL
 2ºSMX🎲🎲🎲
