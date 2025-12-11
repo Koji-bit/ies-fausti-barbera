@@ -1,5 +1,5 @@
 # Seguretat informàtica
-*_The Cybersecurity class focuses on protecting systems and data by learning how to prevent, detect, and respond to digital threats and vulnerabilities._*
+*_The Cybersecurity class focus on protecting systems and data by learning how to prevent, detect, and respond to digital threats and vulnerabilities._*
 
 IVAN PALLARES BARBERA
 2ºSMX📲📲📲
