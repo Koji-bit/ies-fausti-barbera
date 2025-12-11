@@ -1,5 +1,5 @@
 # Sostenibilitat aplicada al sistema productiu
-*_The Sustainability Applied to the Productive System class focuses on how companies integrate environmental, social and economic sustainability into their production processes._*
+*_The Sustainability Applied to the Productive System class focus on how companies integrate environmental, social and economic sustainability into their production processes._*
 
 RAFAEL CASTAÑEDA LOMAS
 2ºSMX
