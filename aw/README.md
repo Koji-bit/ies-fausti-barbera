@@ -1,5 +1,5 @@
 # Aplicacions web
-*_The Web Applications (AW) class focuses on designing, developing, and deploying interactive websites using client-side and server-side technologies._*
+*_The Web Applications class focuses on designing, developing, and deploying interactive websites using client-side and server-side technologies._*
 
 SERGIO LAGUNA OLMO♿♿
 2ºSMX
