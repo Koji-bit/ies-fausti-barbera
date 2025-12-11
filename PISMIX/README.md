@@ -1,5 +1,5 @@
 # Projecte intermodular Sistemes microinformàtics i xarxes
-*_The Intermodular Project for Microcomputer Systems and Networks class focuses on planning and developing an integrated technical project that combines hardware, operating systems, and networking skills to solve real-world IT problems._*
+*_The Intermodular Project for Microcomputer Systems and Networks class focus on planning and developing an integrated technical project that combines hardware, operating systems, and networking skills to solve the world IT problems._*
 
 RAFAEL CASTAÑEDA LOMAS
 2ºSMX🎭🎭🎭
