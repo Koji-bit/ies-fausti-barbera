@@ -1,5 +1,5 @@
 # Servicis en xarxa
-*_The Network Services class focuses on designing, configuring, and managing network-based services to ensure reliable communication and resource sharing._*
+*_The Network Services class focus on designing, configuring, and managing network based services to ensure reliable communication and resource sharing._*
 
 ENRIQUE GALDUF TEL
 2ºSMX🛡️🛡️🛡️
